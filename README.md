@@ -7,10 +7,10 @@ There is no functional application in this project.
 
 ## This repository acts as a sandbox to:
 
-·Test things safely
-·Make mistakes
-·Roll back changes
-·Understand how Git behaves in real scenarios
+- Test things safely
+- Make mistakes
+- Roll back changes
+- Understand how Git behaves in real scenarios
 
 # Practiced
 
